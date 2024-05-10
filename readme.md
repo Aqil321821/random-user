@@ -1,6 +1,10 @@
+Live Preview : https://random-user-generator-aqil.netlify.app/
 
 
-/////////////////////////
+
+
+
+Notes :
 
 
 1.   fetch('https://randomuser.me/api')
